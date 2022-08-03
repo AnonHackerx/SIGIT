@@ -1,0 +1,5 @@
+pip install google
+pip install google-search
+pip install google-cloud
+bash ./install.sh
+python3 sigit.py
